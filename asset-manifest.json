@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.c0642996.css",
-    "main.js": "/my-app/static/js/main.6703a395.js",
-    "static/js/787.5be3a27f.chunk.js": "/my-app/static/js/787.5be3a27f.chunk.js",
-    "static/media/meals.jpg": "/my-app/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/my-app/index.html",
-    "main.c0642996.css.map": "/my-app/static/css/main.c0642996.css.map",
-    "main.6703a395.js.map": "/my-app/static/js/main.6703a395.js.map",
-    "787.5be3a27f.chunk.js.map": "/my-app/static/js/787.5be3a27f.chunk.js.map"
+    "main.css": "/FoodCart/static/css/main.c0642996.css",
+    "main.js": "/FoodCart/static/js/main.d69bb450.js",
+    "static/js/787.5be3a27f.chunk.js": "/FoodCart/static/js/787.5be3a27f.chunk.js",
+    "static/media/meals.jpg": "/FoodCart/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/FoodCart/index.html",
+    "main.c0642996.css.map": "/FoodCart/static/css/main.c0642996.css.map",
+    "main.d69bb450.js.map": "/FoodCart/static/js/main.d69bb450.js.map",
+    "787.5be3a27f.chunk.js.map": "/FoodCart/static/js/787.5be3a27f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0642996.css",
-    "static/js/main.6703a395.js"
+    "static/js/main.d69bb450.js"
   ]
 }
